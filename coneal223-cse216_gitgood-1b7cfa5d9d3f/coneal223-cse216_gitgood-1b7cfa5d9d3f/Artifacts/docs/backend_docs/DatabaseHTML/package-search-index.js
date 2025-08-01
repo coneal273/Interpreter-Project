@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"edu.lehigh.cse216.gitgood.backend"}];updateSearchResults();

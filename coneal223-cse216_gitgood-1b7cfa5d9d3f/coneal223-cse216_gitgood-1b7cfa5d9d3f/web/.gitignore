@@ -1,6 +1,0 @@
-#gitignore for web frontend
-
-node_modules
-local
-build
-docs

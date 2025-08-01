@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"edu.lehigh.cse216.gitgood.backend","c":"DataRow","l":"mContent"},{"p":"edu.lehigh.cse216.gitgood.backend","c":"DataRow","l":"mId"},{"p":"edu.lehigh.cse216.gitgood.backend","c":"DataRow","l":"mLikeCount"},{"p":"edu.lehigh.cse216.gitgood.backend","c":"DataRow","l":"mLiked"}];updateSearchResults();
